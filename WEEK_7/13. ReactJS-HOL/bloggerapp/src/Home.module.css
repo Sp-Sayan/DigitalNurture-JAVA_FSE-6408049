@@ -1,0 +1,16 @@
+.homeContainer{
+    margin-top: 50px;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.hr{
+    
+    margin: 50px;
+    height: 100%;
+    background-color: green;
+    width: 5px;
+}
